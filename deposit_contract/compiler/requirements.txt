@@ -5,3 +5,4 @@
 git+https://github.com/vyperlang/vyper@1761-HOTFIX-v0.1.0-beta.13
 
 pytest==3.6.1
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
